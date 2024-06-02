@@ -1,2 +1,3 @@
 # VirtualSteerNFS
 OPENCV PYTHON
+mediapipe
